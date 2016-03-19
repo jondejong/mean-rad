@@ -1,0 +1,17 @@
+##  Node
+### Given data.json
+    [
+      {"name": "One", "value": 1},
+      {"name": "Two", "value": 2},
+      {"name": "Three", "value": 3},
+      {"name": "Four", "value": 4},
+      {"name": "Five", "value": 5}
+    ]
+
+### Output
+    One: 2
+    Two: 4
+    Three: 6
+    Four: 8
+    Five: 10
+    Total: 30
