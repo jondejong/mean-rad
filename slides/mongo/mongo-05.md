@@ -1,6 +1,6 @@
 ## Mongo
 ### Mongoose
 
-* ORM
+* ODM
 * Schema
 * Model
