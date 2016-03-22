@@ -1,9 +1,7 @@
 ##  Express
 
     app.get('/dogs', function(req, res) {
-      dogService.list(fucntion(err, dogs) {
+      dogService.list(function(err, dogs) {
         res.json(dogs);
       });
     });
-
-    

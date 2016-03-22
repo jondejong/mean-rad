@@ -8,7 +8,7 @@
         breed: req.body.breed
       }
 
-      dogService.save(dog, fucntion(err, dogs) {
+      dogService.save(dog, function(err, dogs) {
         res.json(dogs);
       });
     });
