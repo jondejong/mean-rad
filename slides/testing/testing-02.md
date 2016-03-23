@@ -1,4 +1,4 @@
 ## Testing
 
-* Jasmmine
+* Jasmine
 * Mocha/Chia/Sinon
