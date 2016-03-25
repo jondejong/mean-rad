@@ -1,6 +1,6 @@
 ##  Express
 
-    app.get('/dogs/:id', function(req, res) {
+    app.put('/dogs/:id', function(req, res) {
 
       // Depends on bodyParser
       var dog = {
